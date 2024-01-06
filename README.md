@@ -1,0 +1,2 @@
+# ConwaysGOL
+First WebGPU application
